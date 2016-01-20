@@ -1,0 +1,28 @@
+name: MathsHomework
+favicon: null
+layout_spectrum: 0.6660277445334941
+typography_spectrum: 0.2826338636223227
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.561107843182981
+  lightness: 0.9895068358164281
+  saturation: 0.3256258761975914
+  rhythmicContrast: 0.37690845294855535
+purpose: []
